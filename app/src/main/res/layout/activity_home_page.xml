@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/trip"
+    tools:context="com.fyp.bikev5.HomePageActivity">
+
+
+
+
+
+    <ViewFlipper
+        android:id="@+id/flip"
+        android:layout_width="170dp"
+        android:layout_height="85dp"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="57dp"
+        android:layout_above="@+id/signUp"
+        android:layout_alignEnd="@+id/signUp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/ic_airport_shuttle_black_24dp" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/ic_directions_bus_black_24dp" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/ic_traffic_black_24dp" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/ic_local_taxi_black_24dp" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/ic_people_black_24dp" />
+
+    </ViewFlipper>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="62dp"
+        android:fontFamily="cursive"
+        android:text="App"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

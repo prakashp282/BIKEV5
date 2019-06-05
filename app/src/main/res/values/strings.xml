@@ -1,0 +1,48 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">BIKEV5</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="transport_id" translatable="false"></string>
+    <string name="firebase_path" translatable="false"></string>
+    <string name="firebase_email" translatable="false"></string>
+    <string name="firebase_password" translatable="false"></string>
+    <string name="model">Enter MODEL</string>
+    <string name="vechNo">Enter Vechical Number</string>
+    <string name="emailId">Enter Email ID</string>
+    <string name="Username">Enter User name</string>
+    <string name="password">Enter Password</string>
+    <string name="mfgDt">Enter Manufacturing date</string>
+    <string name="password_len">Password should be greater than 6 letters</string>
+    <string name="complete_form_warning">Fill All the Fields</string>
+    <string name="account_success">Account Creatation Success</string>
+    <string name="account_failed">Account Creatation Failed</string>
+    <string name="verification_mail">Verification email successfully sent to </string>
+    <string name="verification_mail_fail">Failed to send Verification mail </string>
+    <string name="signed_out">Signed Out Of Application</string>
+    <string name="firebase_parent_node">user</string>
+    <string name="firebase_child_node">name</string>
+
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">Connecting...</string>
+    <string name="title_connected_to">Connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">Not connected</string>
+
+    <string name="scanning">Scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+
+
+</resources>

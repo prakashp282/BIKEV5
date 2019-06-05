@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "447038573379",
+    "firebase_url": "https://collectdatabike.firebaseio.com",
+    "project_id": "collectdatabike",
+    "storage_bucket": "collectdatabike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447038573379:android:32383e3d2457c39c",
+        "android_client_info": {
+          "package_name": "com.fyp.bikev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447038573379-64gsm0jpqokt9e8oq5gbhge7tnq02k2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.bikev2",
+            "certificate_hash": "3e2753b1829b38dfda64e8e074f5850e6361a14a"
+          }
+        },
+        {
+          "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJePpzOv-pYEJmkQghpjCxyouFdpCl4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447038573379:android:616fe1c86767d3f2",
+        "android_client_info": {
+          "package_name": "com.fyp.bikev5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447038573379-dbdg8qtb43bgi251taa1pioab3h6jlet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.bikev5",
+            "certificate_hash": "3e2753b1829b38dfda64e8e074f5850e6361a14a"
+          }
+        },
+        {
+          "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJePpzOv-pYEJmkQghpjCxyouFdpCl4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447038573379:android:cc1f0fa1a15d73a4",
+        "android_client_info": {
+          "package_name": "devine.prakash.com.collector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447038573379-s06qjhues7pa0q7frufsb27qjj85nfko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devine.prakash.com.collector",
+            "certificate_hash": "3e2753b1829b38dfda64e8e074f5850e6361a14a"
+          }
+        },
+        {
+          "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJePpzOv-pYEJmkQghpjCxyouFdpCl4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447038573379:android:cdba9ec854b05a4a",
+        "android_client_info": {
+          "package_name": "devine.prakash.com.gps_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447038573379-7u2gd9jsu5gh0nvecscjpauvor7vm85i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devine.prakash.com.gps_track",
+            "certificate_hash": "3e2753b1829b38dfda64e8e074f5850e6361a14a"
+          }
+        },
+        {
+          "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJePpzOv-pYEJmkQghpjCxyouFdpCl4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447038573379-tsaota0s1path6eu4b9ql4a0einutuc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
